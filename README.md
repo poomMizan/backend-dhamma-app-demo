@@ -1,3 +1,8 @@
+Backend API สำหรับแอปฟังธรรมะ (Flutter)
+กำลังพัฒนา มีหน้าเว็ปให้ admin สามารถเข้ามาเพิ่ม ลบ แก้ไข วิดีโอ/พอดแคสต์
+เบื้องต้นทำงานได้แต่มีหลายจุดต้องแก้ไข เช่น typeorm โค็ดยังรกอยู่
+(TypeScript & NestJs ศึกษาด้วยตัวเอง)
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
